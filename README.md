@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Retry once for Docker CI failures (#8164)
